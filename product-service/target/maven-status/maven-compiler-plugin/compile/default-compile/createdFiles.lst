@@ -1,0 +1,8 @@
+com/caracal/microservices/product/model/Product$ProductBuilder.class
+com/caracal/microservices/product/dto/ProductRequest.class
+com/caracal/microservices/product/ProductServiceApplication.class
+com/caracal/microservices/product/model/Product.class
+com/caracal/microservices/product/controller/ProductController.class
+com/caracal/microservices/product/service/ProductService.class
+com/caracal/microservices/product/dto/ProductResponse.class
+com/caracal/microservices/product/repository/ProductRepository.class

@@ -1,0 +1,7 @@
+/home/caracal/code/spring-microservices/product-service/src/main/java/com/caracal/microservices/product/ProductServiceApplication.java
+/home/caracal/code/spring-microservices/product-service/src/main/java/com/caracal/microservices/product/controller/ProductController.java
+/home/caracal/code/spring-microservices/product-service/src/main/java/com/caracal/microservices/product/dto/ProductRequest.java
+/home/caracal/code/spring-microservices/product-service/src/main/java/com/caracal/microservices/product/dto/ProductResponse.java
+/home/caracal/code/spring-microservices/product-service/src/main/java/com/caracal/microservices/product/model/Product.java
+/home/caracal/code/spring-microservices/product-service/src/main/java/com/caracal/microservices/product/repository/ProductRepository.java
+/home/caracal/code/spring-microservices/product-service/src/main/java/com/caracal/microservices/product/service/ProductService.java
