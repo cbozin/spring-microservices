@@ -6,6 +6,7 @@ A Spring Boot project using the microservices architecture for management of pro
 
 - **Product Service**: Manages product catalog operations.
 - **Order Service**: Handles order management.
+- **Inventory Service**: Checks product inventory.
 - **MongoDB & MySQL Integration**: Utilizes MongoDB and MySQL for data persistence.
 - **Testcontainers**: Implements containerized testing for reliable integration tests.
 - **RESTful APIs**: Exposes endpoints for seamless service communication.
@@ -15,12 +16,12 @@ A Spring Boot project using the microservices architecture for management of pro
 
 - Java 17  
 - Spring Boot 3.4.5  
-- Spring Data MongoDB  
+- MongoDB and MySQL
 - Spring Web  
 - Testcontainers  
 - JUnit 5  
-- RestAssured  
-- Docker & Docker Compose  
+- Docker
 - Maven
-- Postman 
+- Postman
+
 
