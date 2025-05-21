@@ -1,4 +1,5 @@
 com/caracal/microservices/product/model/Product$ProductBuilder.class
+com/caracal/microservices/product/config/OpenAPIConfig.class
 com/caracal/microservices/product/dto/ProductRequest.class
 com/caracal/microservices/product/ProductServiceApplication.class
 com/caracal/microservices/product/model/Product.class
