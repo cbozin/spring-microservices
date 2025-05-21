@@ -34,3 +34,5 @@ build/
 
 ### DOCKER ###
 **/docker/**/data/
+
+**/volume-data/**
