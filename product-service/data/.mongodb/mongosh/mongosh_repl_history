@@ -1,3 +1,0 @@
-db.product.find().pretty()
-db.products.find().pretty()
-use product-service
