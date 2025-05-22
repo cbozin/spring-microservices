@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="508247fc-c673-4dc2-9028-2a2c9ef5f891" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../api-gateway/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/caracal/microservices/apigateway/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/caracal/microservices/apigateway/routes/Routes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inventory-service/src/test/java/com/caracal/microservices/inventory/InventoryServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inventory-service/src/test/java/com/caracal/microservices/inventory/InventoryServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/src/test/java/com/caracal/microservices/order/OrderServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/test/java/com/caracal/microservices/order/OrderServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/ProductServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/ProductServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/controller/ProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/dto/ProductRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/dto/ProductRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/dto/ProductResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/dto/ProductResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/model/Product$ProductBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/model/Product$ProductBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caracal/microservices/product/service/ProductService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/java/com/caracal/microservices/apigateway/routes/Routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/caracal/microservices/apigateway/routes/Routes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/client/InventoryClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/client/InventoryClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/config/RestClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/config/RestClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/remote-targets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/remote-targets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +98,7 @@
       <workItem from="1747791360774" duration="3868000" />
       <workItem from="1747859232671" duration="1522000" />
       <workItem from="1747866797121" duration="307000" />
+      <workItem from="1747933692808" duration="2376000" />
     </task>
     <servers />
   </component>

@@ -1,2 +1,4 @@
 order-service/mysql/
 **/data/
+# Ignore all MySQL volume data
+api-gateway/volume-data/
