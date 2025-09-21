@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="508247fc-c673-4dc2-9028-2a2c9ef5f891" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../notification-service/src/main/resources/avro/order-placed.avsc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../order-service/src/main/resources/avro/order-placed.avsc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notification-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/java/com/caracal/microservices/notification/order/event/OrderPlacedEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/java/com/caracal/microservices/notification/service/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/java/com/caracal/microservices/notification/service/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/event/OrderPlacedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/event/OrderPlacedEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/caracal/microservices/order/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +91,7 @@
       <workItem from="1747866797121" duration="307000" />
       <workItem from="1747933692808" duration="2376000" />
       <workItem from="1748026461007" duration="1019000" />
+      <workItem from="1748110329058" duration="13000" />
     </task>
     <servers />
   </component>
